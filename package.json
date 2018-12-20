@@ -7,5 +7,8 @@
   "license": "MIT",
   "installConfig": {
     "pnp": true
+  },
+  "devDependencies": {
+    "flow-bin": "0.89.0"
   }
 }
