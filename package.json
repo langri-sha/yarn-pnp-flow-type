@@ -1,0 +1,8 @@
+{
+  "name": "yarn-pnp-flow-typed",
+  "version": "1.0.0",
+  "description": "Sample repository configured to use Yarn P'n'P with Flow",
+  "main": "index.js",
+  "author": "Filip Dupanović <filip.dupanovic@gmail.com>",
+  "license": "MIT"
+}
