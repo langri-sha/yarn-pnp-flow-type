@@ -2,13 +2,19 @@
   "name": "yarn-pnp-flow-typed",
   "version": "1.0.0",
   "description": "Sample repository configured to use Yarn P'n'P with Flow",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Filip Dupanović <filip.dupanovic@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "flow"
+  },
   "installConfig": {
     "pnp": true
   },
   "devDependencies": {
     "flow-bin": "0.89.0"
+  },
+  "dependencies": {
+    "micro": "9.3.3"
   }
 }
